@@ -1,8 +1,8 @@
 {
-  "name": "Zohaib Zaheer Satti - قرآن سیکھنے کا مرکز",
-  "short_name": "قرآن مرکز",
-  "description": "Quran online teaching with Tafsir, Audio, and Islamic Calendar - Offline supported. Made for kids in Islamabad by Zohaib Zaheer Satti (0345 5510305).",
-  "version": "1.0.0",
+  "name": "Zohaib Zaheer Satti - Quran Learning Center",
+  "short_name": "Quran Center",
+  "description": "Quran online teaching with Bayan by Maulana Abdul Majid Satti. Multi-language (Urdu, English, Arabic). Made for kids in Islamabad.",
+  "version": "2.0.0",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -11,6 +11,7 @@
   "theme_color": "#0d5c3f",
   "lang": "ur",
   "dir": "rtl",
+  "categories": ["education", "books", "lifestyle"],
   "icons": [
     {
       "src": "icon-192.png",
